@@ -16,22 +16,30 @@ Este projeto é um sistema **Back-end** desenvolvido em **Python (Flask)** para 
 ## 📁 Estrutura de Pastas
 
 📦Trabalho_SGHSS
-├── app.py
-├── database.py
-├── models.py
-├── logs.py
-├── routes/
-│ ├── auth.py
-│ ├── pacientes.py
-│ ├── medicos.py
-│ ├── consultas.py
-│ ├── prontuarios.py
-│ └── routes_logs.py
-├── requirements.txt
 
-yaml
-Copiar
-Editar
+├── app.py
+
+├── database.py
+
+├── models.py
+
+├── logs.py
+
+├── routes/
+
+│ ├── auth.py
+
+│ ├── pacientes.py
+
+│ ├── medicos.py
+
+│ ├── consultas.py
+
+│ ├── prontuarios.py
+
+│ └── routes_logs.py
+
+├── requirements.txt
 
 ---
 
